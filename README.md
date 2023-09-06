@@ -10,6 +10,6 @@ Alternately, created one dataset with all three countries, appropriately labeled
 Cleaned the data records using Python string functions.
 
 Explored the three datasets and answer the following:
-For each country, compare summary stats and visualizations for Rank, Cores, Rpeak, and Power.
-Which countries have the best stats in each category?
-Listed the most frequently used processors for each country’s supercomputers.
+(1) For each country, compare summary stats and visualizations for Rank, Cores, Rpeak, and Power.
+(2) Which countries have the best stats in each category?
+(3) Listed the most frequently used processors for each country’s supercomputers.

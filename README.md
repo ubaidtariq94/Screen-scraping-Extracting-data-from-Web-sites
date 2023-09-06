@@ -1,1 +1,15 @@
-# Screen-scraping-Extracting-data-from-Web-sites
+Data utilized from following websites: 
+
+https://top500.org/ 
+https://top500.org/statistics/sublist/
+
+Utilized Python along with the BeautifulSoup library, extract, clean, and explore the Top500 datasets:
+
+Created 3 csv datasets: for US, China, and Japan
+Alternately, created one dataset with all three countries, appropriately labeled
+Cleaned the data records using Python string functions.
+
+Explored the three datasets and answer the following:
+For each country, compare summary stats and visualizations for Rank, Cores, Rpeak, and Power.
+Which countries have the best stats in each category?
+Listed the most frequently used processors for each country’s supercomputers.
